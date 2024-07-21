@@ -14,9 +14,9 @@ The purpose of this analysis is to develop a logistic regression machine learnin
         ** 85% of the loans predicted as high risk are actually high risk. The model is fairly precise in predicting high-risk loans.
 ** Recall:
     ** Healthy Loans (0): 0.99
-        ** 
+        ** 99% of healthy loans are correctly identified by the model.
     ** Unhealthy Loans (1): 0.91
-        **
+        ** 91% of unhealthy loans are correctly identied by the model.
 
 
 ## Summary
